@@ -13,8 +13,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: Updated the Readme
+          COMMIT_MESSAGE: Updated the README.md
           SHOW_TOTAL: true
-          SHOW_TITLE: true
-          TIME_RANGE: last_year
           

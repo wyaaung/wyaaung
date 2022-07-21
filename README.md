@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 July 2021 - To: 20 July 2022
+
+Total Time: 1 hr 43 mins
+
+JavaScript   1 hr 42 mins    ███████████████████████▒░   93.97 %
+Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 
 <!--END_SECTION:waka-->

@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 30 mins
-
 JavaScript   4 hrs 57 mins   ██████████████████▓░░░░░░   74.81 %
 Python       1 hr 22 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
 C            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %

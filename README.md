@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <p align="start">
-<a href="mailto:wya.aung@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/william_wyaaung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:wya.aung@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-squaree&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/william_wyaaung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 ### Programming Languages:

@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown      9 hrs 28 mins   ██████████▒░░░░░░░░░░░░░░   41.01 %
-YAML          7 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.65 %
-C             1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-TypeScript    1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-C++           57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Python        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+YAML         11 hrs 23 mins  ███████████▒░░░░░░░░░░░░░   45.96 %
+Markdown     5 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.47 %
+Python       5 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+TypeScript   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Docker       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->

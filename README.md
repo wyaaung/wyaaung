@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 28 hrs 42 mins
+Total Time: 28 hrs 30 mins
 
-Python       20 hrs 30 mins  >>>>>>>>>>>>>>-----------   57.13 %
-Java         7 hrs 33 mins   >>>>>--------------------   21.05 %
-JavaScript   1 hr 48 mins    >------------------------   05.02 %
-XML          1 hr 3 mins     >------------------------   02.95 %
-SQL          1 hr 2 mins     >------------------------   02.88 %
-Other        58 mins         >------------------------   02.71 %
+Python       19 hrs 27 mins  >>>>>>>>>>>>>>-----------   56.73 %
+Java         5 hrs 58 mins   >>>>---------------------   17.41 %
+TypeScript   2 hrs 56 mins   >>-----------------------   08.60 %
+JavaScript   2 hrs 36 mins   >>-----------------------   07.61 %
+SQL          1 hr 17 mins    >------------------------   03.75 %
+HTML         43 mins         >------------------------   02.09 %
 ```
 
 <!--END_SECTION:waka-->

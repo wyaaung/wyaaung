@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 14 hrs 52 mins
-
 Python       10 hrs 40 mins  >>>>>>>>>>>>>>>>>>-------   70.90 %
 TypeScript   1 hr 16 mins    >>-----------------------   08.42 %
 SQL          54 mins         >>-----------------------   06.07 %

@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs 3 mins    >>>>>>>>>>>>>>>>>>>------   75.15 %
-TypeScript   1 hr 12 mins    >>>----------------------   12.80 %
-YAML         29 mins         >------------------------   05.26 %
-JSON         28 mins         >------------------------   05.02 %
-SQL          6 mins          -------------------------   01.18 %
-JavaScript   2 mins          -------------------------   00.47 %
+Python       9 hrs 25 mins   >>>>>>>>>>>>>>>>>>>>-----   80.14 %
+TypeScript   1 hr 12 mins    >>>----------------------   10.23 %
+YAML         29 mins         >------------------------   04.20 %
+JSON         28 mins         >------------------------   04.01 %
+SQL          6 mins          -------------------------   00.94 %
+JavaScript   2 mins          -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->

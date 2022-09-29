@@ -41,12 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++          59 mins         >>>>>>>>>>>>>>>>>--------   67.20 %
-Python       20 mins         >>>>>>-------------------   23.31 %
-JSON         6 mins          >>-----------------------   07.01 %
-Java         1 min           -------------------------   01.67 %
-Markdown     0 secs          -------------------------   00.43 %
-Git Config   0 secs          -------------------------   00.38 %
+Python   20 mins         >>>>>>>>>>>>>>>>>>>------   74.23 %
+C++      7 mins          >>>>>>-------------------   25.77 %
 ```
 
 <!--END_SECTION:waka-->

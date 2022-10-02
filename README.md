@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   1 hr 30 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   97.26 %
+Other        1 min           -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->

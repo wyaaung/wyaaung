@@ -41,10 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++        5 hrs 56 mins   >>>>>>>>>>>>>>>>>>-------   71.62 %
-Python     2 hrs 7 mins    >>>>>>-------------------   25.63 %
-Makefile   11 mins         >------------------------   02.41 %
-Bash       1 min           -------------------------   00.34 %
+C++        7 hrs 30 mins   >>>>>>>>>>>>>>>>>>-------   70.74 %
+Python     2 hrs 26 mins   >>>>>>-------------------   22.97 %
+Makefile   21 mins         >------------------------   03.43 %
+C          18 mins         >------------------------   02.86 %
+Other      0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->

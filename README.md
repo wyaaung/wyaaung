@@ -41,12 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       14 hrs 28 mins  >>>>>>>>>>>>>>>>>>>------   75.48 %
-INI          2 hrs 50 mins   >>>>---------------------   14.77 %
-JavaScript   49 mins         >------------------------   04.26 %
-Markdown     18 mins         -------------------------   01.63 %
-JSON         16 mins         -------------------------   01.43 %
-Bash         12 mins         -------------------------   01.07 %
+Python       17 hrs 45 mins  >>>>>>>>>>>>>>>>>--------   66.06 %
+INI          6 hrs 51 mins   >>>>>>-------------------   25.53 %
+JavaScript   49 mins         >------------------------   03.10 %
+Other        27 mins         -------------------------   01.71 %
 ```
 
 <!--END_SECTION:waka-->

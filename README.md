@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         27 mins         >>>>>>>>>>>>>>>>>>-------   71.72 %
+PowerShell   10 mins         >>>>>>>------------------   28.28 %
 ```
 
 <!--END_SECTION:waka-->

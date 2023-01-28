@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 mins          >>>>>>>>>>>>-------------   49.79 %
-Java         2 mins          >>>>>>>>>>>--------------   45.41 %
-Git Config   0 secs          >------------------------   04.80 %
+Python       24 mins         >>>>>>>>>>>>>>>>>>>>>>---   89.46 %
+Java         2 mins          >>-----------------------   08.01 %
+Other        0 secs          -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->

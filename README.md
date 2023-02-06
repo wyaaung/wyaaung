@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python    23 mins         >>>>>>>>>>>>>>>>>>>>>>>--   91.89 %
-Haskell   2 mins          >>-----------------------   08.11 %
+Python    23 mins         >>>>>>>>>>>>>>>>>>>>>----   84.41 %
+Haskell   4 mins          >>>>---------------------   15.59 %
 ```
 
 <!--END_SECTION:waka-->

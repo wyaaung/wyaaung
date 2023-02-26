@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java     13 mins         >>>>>>>>>>>>>>-----------   56.27 %
-Python   8 mins          >>>>>>>>>----------------   35.01 %
-HTML     2 mins          >>-----------------------   08.72 %
+Python   38 mins         >>>>>>>>>>>>>>>>>>-------   71.15 %
+Java     13 mins         >>>>>>-------------------   24.98 %
+HTML     2 mins          >------------------------   03.87 %
 ```
 
 <!--END_SECTION:waka-->

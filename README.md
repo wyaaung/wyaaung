@@ -41,12 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       29 hrs 48 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.35 %
-JSON         6 mins          -------------------------   00.35 %
-CSV          5 mins          -------------------------   00.29 %
-C            5 mins          -------------------------   00.28 %
-PowerShell   4 mins          -------------------------   00.26 %
-Other        3 mins          -------------------------   00.19 %
+Python       32 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.83 %
+Other        14 mins         -------------------------   00.74 %
 ```
 
 <!--END_SECTION:waka-->

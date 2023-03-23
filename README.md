@@ -41,10 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       15 hrs 15 mins  >>>>>>>>>>>>>>>>>>-------   73.37 %
-Java         5 hrs 1 min     >>>>>>-------------------   24.17 %
-Bash         14 mins         -------------------------   01.17 %
-Other        12 mins         -------------------------   01.01 %
+Python       13 hrs 32 mins  >>>>>>>>>>>>>>>>>--------   66.51 %
+Java         5 hrs 31 mins   >>>>>>>------------------   27.10 %
+Text         24 mins         -------------------------   01.99 %
+Markdown     21 mins         -------------------------   01.80 %
+Bash         16 mins         -------------------------   01.34 %
+Other        13 mins         -------------------------   01.11 %
 ```
 
 <!--END_SECTION:waka-->

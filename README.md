@@ -41,9 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.00 %
-YAML         49 mins         >>-----------------------   08.94 %
-Other        12 mins         >------------------------   02.23 %
+Python       7 hrs 49 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.60 %
+YAML         49 mins         >>-----------------------   09.18 %
+Bash         10 mins         -------------------------   01.92 %
+TeX          6 mins          -------------------------   01.22 %
+RMarkdown    2 mins          -------------------------   00.54 %
+Other        1 min           -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->

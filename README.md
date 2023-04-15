@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 49 mins   >>>>>>>>>>---------------   41.03 %
-Java         3 hrs 44 mins   >>>>>>>>>>---------------   40.17 %
-BibTeX       1 hr 25 mins    >>>>---------------------   15.25 %
-Other        8 mins          -------------------------   01.58 %
+Python       4 hrs 33 mins   >>>>>>>>>>>>-------------   48.34 %
+Java         3 hrs 7 mins    >>>>>>>>-----------------   33.16 %
+BibTeX       1 hr 25 mins    >>>>---------------------   15.07 %
+Other        8 mins          -------------------------   01.48 %
 ```
 
 <!--END_SECTION:waka-->

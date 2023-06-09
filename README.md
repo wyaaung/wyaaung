@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 35 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   98.29 %
-Bash   1 min           -------------------------   01.71 %
+Java   44 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   96.34 %
+Bash   1 min           >------------------------   03.66 %
 ```
 
 <!--END_SECTION:waka-->

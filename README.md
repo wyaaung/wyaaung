@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java       39 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.97 %
-Markdown   0 secs          -------------------------   00.03 %
+Java       39 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   96.55 %
+Markdown   1 min           >------------------------   03.45 %
 ```
 
 <!--END_SECTION:waka-->

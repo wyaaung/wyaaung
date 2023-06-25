@@ -41,11 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 mins          >>>>>>>>>>>>>>>----------   58.86 %
-Markdown     2 mins          >>>>>>>>>>---------------   38.33 %
-Java         0 secs          -------------------------   01.12 %
+Python       4 mins          >>>>>>>>>>>>>>>----------   59.23 %
+Markdown     2 mins          >>>>>>>>>>---------------   38.57 %
+Java         0 secs          -------------------------   01.13 %
 JavaScript   0 secs          -------------------------   01.07 %
-Bash         0 secs          -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->

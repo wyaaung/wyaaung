@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   98.13 %
-Java     0 secs          -------------------------   01.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

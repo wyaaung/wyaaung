@@ -41,7 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+HTML   2 hrs 31 mins   >>>>>>>>>>>>>>>>>>>>>----   83.05 %
+Java   20 mins         >>>----------------------   11.47 %
+XML    7 mins          >------------------------   04.23 %
+YAML   2 mins          -------------------------   01.25 %
 ```
 
 <!--END_SECTION:waka-->

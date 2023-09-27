@@ -41,11 +41,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         21 mins         >>>>>>>>>>>>>>>>>>>------   75.90 %
-Docker       4 mins          >>>>---------------------   14.53 %
-TypeScript   1 min           >------------------------   05.61 %
-Less         0 secs          >------------------------   03.42 %
-HTML         0 secs          -------------------------   00.54 %
+Java         19 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.89 %
+TypeScript   1 min           >>-----------------------   07.11 %
+Less         0 secs          >------------------------   04.33 %
+HTML         0 secs          -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->

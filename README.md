@@ -41,7 +41,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   26 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C++          39 mins         >>>>>>>>>>>>>>>>>>>>-----   79.86 %
+YAML         4 mins          >>-----------------------   08.82 %
+JSON         3 mins          >>-----------------------   07.43 %
+JavaScript   1 min           >------------------------   03.39 %
+Other        0 secs          -------------------------   00.50 %
 ```
 
 <!--END_SECTION:waka-->

@@ -37,15 +37,3 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 <br/>
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 19 mins   >>>>>>>>>>>--------------   45.49 %
-Java         2 hrs 2 mins    >>>>>--------------------   21.40 %
-HTML         1 hr 20 mins    >>>>---------------------   14.08 %
-C++          39 mins         >>-----------------------   06.94 %
-Bash         32 mins         >------------------------   05.66 %
-```
-
-<!--END_SECTION:waka-->

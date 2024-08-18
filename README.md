@@ -28,6 +28,8 @@ I am currently a dedicated and performance-driven Software Engineer at [THG Plc]
 
 I am committed to continuous learning and am always excited to explore and implement the latest technologies to solve complex problems.
 
+I am currently learning Astro Framework and planning to migrate my portfolio website to Astro for better Static Site Generation(SSG). I am currently learning Golang as trying to add a new skill set to my arsenal.
+
 ## Languages and Tools
 
 <p align="left"> 

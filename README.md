@@ -21,9 +21,9 @@ Software Engineer | Cutting-Edge Tech Enthusiast
 </div>
 
 ## 💫 About Me:
-I am currently a dedicated and performance-driven Software Engineer at [THG Plc](https://www.thg.com/). With experience in designing and implementing robust web solutions, my expertise lies in building scalable and efficient systems that power seamless user experiences.
+I am a dedicated and performance-driven Software Engineer. With experience in designing and implementing robust web solutions, my expertise lies in building scalable and efficient systems that power seamless user experiences.
 
-- 🌍 Based in Manchester, U.K.
+- 🌍 Based in London, U.K.
 - ⚡ Fun fact: I love traveling, shopping, and listening to music
 
 I am committed to continuous learning and am always excited to explore and implement the latest technologies to solve complex problems.

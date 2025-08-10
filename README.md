@@ -21,14 +21,8 @@ Software Engineer | Cutting-Edge Tech Enthusiast
 </div>
 
 ## 💫 About Me:
-I am a dedicated and performance-driven Software Engineer. With experience in designing and implementing robust web solutions, my expertise lies in building scalable and efficient systems that power seamless user experiences.
-
-- 🌍 Based in London, U.K.
-- ⚡ Fun fact: I love traveling, shopping, and listening to music
-
-I am committed to continuous learning and am always excited to explore and implement the latest technologies to solve complex problems.
-
-I am currently learning Astro Framework and planning to migrate my portfolio website to Astro for better Static Site Generation(SSG). I am currently learning Golang as trying to add a new skill set to my arsenal.
+I am a performance-driven Software Engineer based in London, U.K.
+I specialize in designing and implementing robust, high-throughput Java backends and crafting lightning-fast storefronts. Automating infrastructure and optimizing deployments on Linux, Ansible, and Kubernetes is my daily bread and butter.
 
 ## Languages and Tools
 

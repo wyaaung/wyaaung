@@ -20,9 +20,17 @@ Software Engineer | Cutting-Edge Tech Enthusiast
   </a>
 </div>
 
-## 💫 About Me:
+## 💫 About Me
 I am a performance-driven Software Engineer based in London, U.K.
 I specialize in designing and implementing robust, high-throughput Java backends and crafting lightning-fast storefronts. Automating infrastructure and optimizing deployments on Linux, Ansible, and Kubernetes is my daily bread and butter.
+
+## Certifications
+
+- [AWS Certified Solutions Architect Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_solutions_architect_associate.pdf)
+- [AWS Certified Developer Architect](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_developer_associate.pdf)
+- [CKA - Certified Kubernetes Administrator](https://github.com/wyaaung/wyaaung/blob/main/certificates/cka__certified_kubernetes_administrator.pdf)
+- [KCNA - Kubernetes and Cloud Native Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/kcna__kubernetes_and_cloud_native_associate.pdf)
+- [CKAD - Certified Kubernetes Application Developer](https://github.com/wyaaung/wyaaung/blob/main/certificates/ckad__certified_kubernetes_application_developer.pdf)
 
 ## Languages and Tools
 

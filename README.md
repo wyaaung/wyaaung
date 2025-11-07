@@ -28,6 +28,7 @@ I specialize in designing and implementing robust, high-throughput Java backends
 
 - [AWS Certified Solutions Architect - Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_solutions_architect_associate.pdf)
 - [AWS Certified Developer - Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_developer_associate.pdf)
+- [AWS Certified Machine Learning Engineer - Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_machine_learning_engineer_associate.pdf)
 - [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://github.com/wyaaung/wyaaung/blob/main/certificates/microsoft__certified_azure_administrator_associate.pdf)
 - [Microsoft Certified: Azure Developer Associate (AZ-204)](https://github.com/wyaaung/wyaaung/blob/main/certificates/microsoft__certified_azure_developer_associate.pdf)
 - [CKA - Certified Kubernetes Administrator](https://github.com/wyaaung/wyaaung/blob/main/certificates/cka__certified_kubernetes_administrator.pdf)

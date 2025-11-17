@@ -44,6 +44,14 @@ I enjoy solving distributed system challenges and working with cloud-native tech
 - [Azure Administrator Associate (AZ-104)](https://github.com/wyaaung/wyaaung/blob/main/certificates/microsoft__certified_azure_administrator_associate.pdf)  
 - [Azure Developer Associate (AZ-204)](https://github.com/wyaaung/wyaaung/blob/main/certificates/microsoft__certified_azure_developer_associate.pdf)
 
+#### **Microsoft Fabric (Data Platform)**
+
+- [Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/en-gb/users/waiyanaung-8354/credentials/9795b240f6e25cd5)
+
+#### **Microsoft GitHub**
+
+- [GitHub Copilot (GH-300)](https://learn.microsoft.com/en-gb/users/waiyanaung-8354/credentials/ea1335017ad816ce)
+
 ---
 
 ### **🛠️ DevOps, Infrastructure Cloud-Native Certifications**

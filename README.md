@@ -2,7 +2,7 @@
  
 ## Hi there! I'm William (Wai Yan) Aung 👋
 
-Software Engineer | Cutting-Edge Tech Enthusiast
+**Backend Engineer | Platform & Cloud Enthusiast | DevOps Practitioner**
 </div>
 
 <div id="badges" align="center">
@@ -21,19 +21,37 @@ Software Engineer | Cutting-Edge Tech Enthusiast
 </div>
 
 ## 💫 About Me
-I am a performance-driven Software Engineer based in London, U.K.
-I specialize in designing and implementing robust, high-throughput Java backends and crafting lightning-fast storefronts. Automating infrastructure and optimizing deployments on Linux, Ansible, and Kubernetes is my daily bread and butter.
 
-##  My Certifications 🏅
+I'm a performance-driven **Backend Engineer** based in London, U.K., specializing in:
 
-- [AWS Certified Solutions Architect - Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_solutions_architect_associate.pdf)
-- [AWS Certified Developer - Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_developer_associate.pdf)
-- [AWS Certified Machine Learning Engineer - Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_machine_learning_engineer_associate.pdf)
-- [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://github.com/wyaaung/wyaaung/blob/main/certificates/microsoft__certified_azure_administrator_associate.pdf)
-- [Microsoft Certified: Azure Developer Associate (AZ-204)](https://github.com/wyaaung/wyaaung/blob/main/certificates/microsoft__certified_azure_developer_associate.pdf)
-- [CKA - Certified Kubernetes Administrator](https://github.com/wyaaung/wyaaung/blob/main/certificates/cka__certified_kubernetes_administrator.pdf)
-- [KCNA - Kubernetes and Cloud Native Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/kcna__kubernetes_and_cloud_native_associate.pdf)
-- [CKAD - Certified Kubernetes Application Developer](https://github.com/wyaaung/wyaaung/blob/main/certificates/ckad__certified_kubernetes_application_developer.pdf)
+- Building **high-throughput backend systems** using Spring, Quarkus, Javalin, NestJS, and Gin
+- Designing resilient, event-driven architectures  
+- Implementing CI/CD, automation, container orchestration, and infrastructure provisioning  
+- Crafting fast, responsive frontends (when needed) using Astro, NextJS, and Vue
+
+I enjoy solving distributed system challenges and working with cloud-native technologies that scale. Automating infrastructure and optimizing deployments on Linux, Ansible, and Kubernetes is my daily bread and butter.
+
+## 🏅 Certifications
+
+### **☁️ Cloud Provider Certifications (AWS / Azure)**
+
+#### **AWS**
+- [AWS Certified Solutions Architect – Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_solutions_architect_associate.pdf)  
+- [AWS Certified Developer – Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_developer_associate.pdf)  
+- [AWS Certified Machine Learning Engineer – Associate](https://github.com/wyaaung/wyaaung/blob/main/certificates/aws__certified_machine_learning_engineer_associate.pdf)
+
+#### **Microsoft Azure**
+- [Azure Administrator Associate (AZ-104)](https://github.com/wyaaung/wyaaung/blob/main/certificates/microsoft__certified_azure_administrator_associate.pdf)  
+- [Azure Developer Associate (AZ-204)](https://github.com/wyaaung/wyaaung/blob/main/certificates/microsoft__certified_azure_developer_associate.pdf)
+
+---
+
+### **🛠️ DevOps, Infrastructure Cloud-Native Certifications**
+
+- [Certified Kubernetes Administrator – CKA](https://github.com/wyaaung/wyaaung/blob/main/certificates/cka__certified_kubernetes_administrator.pdf)  
+- [Certified Kubernetes Application Developer – CKAD](https://github.com/wyaaung/wyaaung/blob/main/certificates/ckad__certified_kubernetes_application_developer.pdf)  
+- [Kubernetes and Cloud Native Associate – KCNA](https://github.com/wyaaung/wyaaung/blob/main/certificates/kcna__kubernetes_and_cloud_native_associate.pdf)  
+
 
 ## Languages and Tools
 

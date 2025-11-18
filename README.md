@@ -31,8 +31,6 @@ I'm a performance-driven **Backend Engineer** based in London, U.K., specializin
 
 I enjoy solving distributed system challenges and working with cloud-native technologies that scale. Automating infrastructure and optimizing deployments on Linux, Ansible, and Kubernetes is my daily bread and butter.
 
----
-
 ## 🏅 Certifications
 
 ### **☁️ Cloud Provider Certifications (AWS / Azure)**

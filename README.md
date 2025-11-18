@@ -31,6 +31,8 @@ I'm a performance-driven **Backend Engineer** based in London, U.K., specializin
 
 I enjoy solving distributed system challenges and working with cloud-native technologies that scale. Automating infrastructure and optimizing deployments on Linux, Ansible, and Kubernetes is my daily bread and butter.
 
+---
+
 ## 🏅 Certifications
 
 ### **☁️ Cloud Provider Certifications (AWS / Azure)**
@@ -52,14 +54,13 @@ I enjoy solving distributed system challenges and working with cloud-native tech
 
 - [GitHub Copilot (GH-300)](https://learn.microsoft.com/en-gb/users/waiyanaung-8354/credentials/ea1335017ad816ce)
 
----
-
 ### **🛠️ DevOps, Infrastructure Cloud-Native Certifications**
 
 - [Certified Kubernetes Administrator – CKA](https://github.com/wyaaung/wyaaung/blob/main/certificates/cka__certified_kubernetes_administrator.pdf)  
 - [Certified Kubernetes Application Developer – CKAD](https://github.com/wyaaung/wyaaung/blob/main/certificates/ckad__certified_kubernetes_application_developer.pdf)  
 - [Kubernetes and Cloud Native Associate – KCNA](https://github.com/wyaaung/wyaaung/blob/main/certificates/kcna__kubernetes_and_cloud_native_associate.pdf)  
 
+---
 
 ## Languages and Tools
 

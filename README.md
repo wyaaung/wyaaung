@@ -5,21 +5,6 @@
 **Backend Engineer | Platform & Cloud Enthusiast | DevOps Practitioner**
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/wyaaung">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/william_wyaaung">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/WilliamAung8">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://wyaaung.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</div>
-
 ## 💫 About Me
 
 I'm a performance-driven **Backend Engineer** based in London, U.K., specializing in:

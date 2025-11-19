@@ -1,6 +1,6 @@
 <div id="title" align="center">
  
-## Hi there! I'm William (Wai Yan) Aung 👋
+## Hi there! I'm Wai Yan (William) Aung 👋
 
 **Backend Engineer | Platform & Cloud Enthusiast | DevOps Practitioner**
 </div>

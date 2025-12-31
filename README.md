@@ -42,3 +42,4 @@ I enjoy solving distributed system challenges and working with cloud-native tech
 - [Certified Kubernetes Administrator – CKA](https://github.com/wyaaung/wyaaung/blob/main/certificates/cncf__certified_kubernetes_administrator__cka.pdf)  
 - [Certified Kubernetes Application Developer – CKAD](https://github.com/wyaaung/wyaaung/blob/main/certificates/cncf__certified_kubernetes_application_developer__ckad.pdf)  
 - [Kubernetes and Cloud Native Associate – KCNA](https://github.com/wyaaung/wyaaung/blob/main/certificates/cncf__kubernetes_and_cloud_native_associate__kcna.pdf)  
+- [Kubernetes and Cloud Native Security Associate – KCSA](https://github.com/wyaaung/wyaaung/blob/main/certificates/cncf__kubernetes_and_cloud_native_security_associate__kcsa.pdf)  

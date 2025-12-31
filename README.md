@@ -31,7 +31,8 @@ I enjoy solving distributed system challenges and working with cloud-native tech
 
 #### **Microsoft Fabric (Data Platform)**
 
-- [Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/en-gb/users/waiyanaung-8354/credentials/9795b240f6e25cd5)
+- [Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-gb/WaiYanAung-8354/A11EF5C2AE193CA9?sharingId=E7FAD21FCFD49AF4)
+- [Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/api/credentials/share/en-gb/WaiYanAung-8354/9795B240F6E25CD5?sharingId=E7FAD21FCFD49AF4)
 
 #### **Microsoft GitHub**
 

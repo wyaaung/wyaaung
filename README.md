@@ -39,6 +39,6 @@ I enjoy solving distributed system challenges and working with cloud-native tech
 
 ### **🛠️ DevOps, Infrastructure Cloud-Native Certifications**
 
-- [Certified Kubernetes Administrator – CKA](https://github.com/wyaaung/wyaaung/blob/main/certificates/cka__certified_kubernetes_administrator.pdf)  
-- [Certified Kubernetes Application Developer – CKAD](https://github.com/wyaaung/wyaaung/blob/main/certificates/ckad__certified_kubernetes_application_developer.pdf)  
-- [Kubernetes and Cloud Native Associate – KCNA](https://github.com/wyaaung/wyaaung/blob/main/certificates/kcna__kubernetes_and_cloud_native_associate.pdf)  
+- [Certified Kubernetes Administrator – CKA](https://github.com/wyaaung/wyaaung/blob/main/certificates/cncf__certified_kubernetes_administrator__cka.pdf)  
+- [Certified Kubernetes Application Developer – CKAD](https://github.com/wyaaung/wyaaung/blob/main/certificates/cncf__certified_kubernetes_application_developer__ckad.pdf)  
+- [Kubernetes and Cloud Native Associate – KCNA](https://github.com/wyaaung/wyaaung/blob/main/certificates/cncf__kubernetes_and_cloud_native_associate__kcna.pdf)  

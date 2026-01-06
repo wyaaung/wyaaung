@@ -6,15 +6,6 @@
 📍 *London, United Kingdom*
 </div>
 
-<p align="left">
-  <a href="https://certdirectory.io/profile/wyaaung">
-    <img src="https://img.shields.io/badge/CertDirectory-Profile-blue?style=for-the-badge&logo=certificate&logoColor=white" alt="CertDirectory" />
-  </a>
-  <a href="https://www.linkedin.com/in/wyaaung16">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ## 💫 About Me
 
 I am a performance-driven **Backend Engineer** with a strong DevOps mindset, specializing in bridging the gap between application code and cloud infrastructure. My experience spans building **next-generation serverless commerce platforms** as well as driving **enterprise modernization** initiatives for massive-scale systems.

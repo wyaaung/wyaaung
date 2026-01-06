@@ -3,7 +3,8 @@
 ## Hi there! I'm Wai Yan (William) Aung 👋
 
 **Infrastructure-Focused Backend Engineer | Platform & DevOps Practitioner**  
-📍 *London, United Kingdom*
+
+📍 *United Kingdom*
 </div>
 
 ## 💫 About Me

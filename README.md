@@ -28,6 +28,8 @@ My engineering philosophy centers on **automation**, **resilience**, and **obser
 
 ## 🏅 Certifications
 
+I actively validate my expertise through rigorous certification. View my full portfolio on [CertDirectory](https://certdirectory.io/profile/wyaaung).
+
 ### **☁️ Cloud Provider Certifications (AWS / Azure)**
 
 #### **AWS**

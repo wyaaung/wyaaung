@@ -2,19 +2,29 @@
  
 ## Hi there! I'm Wai Yan (William) Aung 👋
 
-**Backend Engineer | Platform & Cloud Enthusiast | DevOps Practitioner**
+**Infrastructure-Focused Backend Engineer | Platform & DevOps Practitioner**  
+📍 *London, United Kingdom*
 </div>
+
+<p align="left">
+  <a href="https://certdirectory.io/profile/wyaaung">
+    <img src="https://img.shields.io/badge/CertDirectory-Profile-blue?style=for-the-badge&logo=certificate&logoColor=white" alt="CertDirectory" />
+  </a>
+  <a href="https://www.linkedin.com/in/wyaaung16">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 💫 About Me
 
-I'm a performance-driven **Backend Engineer** based in London, U.K., specializing in:
+I am a performance-driven **Backend Engineer** with a strong DevOps mindset, specializing in bridging the gap between application code and cloud infrastructure. My experience spans building **next-generation serverless commerce platforms** as well as driving **enterprise modernization** initiatives for massive-scale systems.
 
-- Building **high-throughput backend systems** using Spring, Quarkus, Javalin, NestJS, and Gin
-- Designing resilient, event-driven architectures  
-- Implementing CI/CD, automation, container orchestration, and infrastructure provisioning  
-- Crafting fast, responsive frontends (when needed) using Astro, NextJS, and Vue
+My engineering philosophy centers on **automation**, **resilience**, and **observability**. I specialize in:
 
-I enjoy solving distributed system challenges and working with cloud-native technologies that scale. Automating infrastructure and optimizing deployments on Linux, Ansible, and Kubernetes is my daily bread and butter.
+*   **Platform Engineering:** Designing reusable infrastructure components and internal developer platforms (IDPs).
+*   **High-Throughput Systems:** Building scalable backends using Spring Boot, Quarkus, and Go.
+*   **Edge Computing:** Implementing serverless logic at the network edge using Cloudflare Workers and Fastly.
+*   **Infrastructure as Code:** Managing complex cloud resources via Terraform and Ansible.
 
 ## 🏅 Certifications
 

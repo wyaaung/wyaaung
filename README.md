@@ -1,7 +1,5 @@
-# ⚡️ Architecting the Edge | Scaling Platforms to Billions of Requests
-
 <div align="center">
-  <h3>Hi, I'm Wai Yan Aung 👋</h3>
+  <h2>Hi, I'm Wai Yan Aung 👋</h2>
   <p><b>Software Engineer | Platform Engineering, Cloud, and DevOps</b></p>
   <p>Building resilient, globally distributed systems, pushing compute to the network edge, and pioneering the next generation of multi-tenant enterprise platforms.</p>
 </div>
